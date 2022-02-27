@@ -1,20 +1,9 @@
-# OpenClass-PI
-Este es el repositorio de mi anteproyecto
-
-## Tecnologías: 
-  ### BackEnd: 
-  >- Nodejs.
-  >- Mongodb.
-  >- HTML, css, js.
-  >- Bootstrap 4.
+# TITULO:
+  OpenClass-PI
+## AUTOR: 
+  Raimundo Martínez Núñez
   
-  ### FrontEnd: 
-  >- ReactJS ( react routing ).
-  >- CSS.
-  >- Electron.
-  >- FireBase ( para el registro de usuarios y el almacenamiento en la nube de sus datos, como profile pics ) 
-    
-## Descripción del proyecto.
+## Descripción del proyecto. ( Introducción, Finalidad, Objetivos ) 
 
    OpenClass es una aplicación web y escritorio cliente, basada en la necesidad de los usuarios de tener una "red social" para estudios y poder conectarse con sus compañeros. 
    
@@ -33,5 +22,26 @@ Este es el repositorio de mi anteproyecto
   
 ### Una vez terminado el curso.
   Al acabar el curso el administrador podrá borrar todos los datos de chat, calendario, notificaciones, etc... y expulsar a todos los usuarios de las clases para no tener que rehacerlas para el año siguiente, y reutilizar las que ya estan creadas. 
+  
+  
+## Medios.
+
+Como mínimo se necesitará un servidor y un ordenador. 
+
+## Tecnologías: 
+  ### BackEnd: 
+  >- Nodejs.
+  >- Mongodb.
+  >- HTML, css, js.
+  >- Bootstrap 4.
+  
+  ### FrontEnd: 
+  >- ReactJS ( react routing ).
+  >- CSS.
+  >- Electron.
+  >- FireBase ( para el registro de usuarios y el almacenamiento en la nube de sus datos, como profile pics ) 
+    
+## Planificación.
+  Aproximadamente creo que puedo tardar unos 3 meses en terminar el proyecto. 
     
   © Ra1NuX
